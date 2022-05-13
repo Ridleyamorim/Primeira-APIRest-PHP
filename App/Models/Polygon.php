@@ -4,7 +4,7 @@ namespace App\Models;
 
 class Polygon
 {
-    private string $table = 'polygons'; //MUDAR TABLE NO BANCO DE DADOS!
+    private string $table = 'polygons'; 
 
     public function setSides(string $type1, int $height, int $base, int $area) :array
     {
