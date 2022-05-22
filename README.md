@@ -1,4 +1,4 @@
-<h1 align="center">APIRest EmCash</h1>
+<h1 align="center">Primeira APIRest</h1>
 
 <p align="center">ApiREST para cadastrar triângulos e retângulos através do POST, e buscar o valor somado do total das áreas dos polígonos cadastrados, através do GET.</p>
 
@@ -43,6 +43,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <h5>Notas Importantes:</h5>
 
 <p>- Foi usado PHP puro para construção da API Rest;<br>
-- Não foi possível, nesse momento, implementar uma autenticação do estilo JWT (precisaria de mais tempo para estudar);<br>
-- Não consegui criar uma validação para impedir de cadastrar outros polígonos ou medidas nulas ou negativas dos polígonos (também precisaria de mais tempo para avaliar melhor maneira de implementar).
+- Ainda preciso implementar uma autenticação no estilo da JSON Web Token (JWT);<br>
+- Ainda irei criar uma validação para impedir de cadastrar outros polígonos ou medidas nulas ou negativas dos polígonos.
 </p>
